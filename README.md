@@ -1,2 +1,2 @@
-# uobpgrconference.github.io
+# University of Bedfordshire PGR Conference
 Homepage
