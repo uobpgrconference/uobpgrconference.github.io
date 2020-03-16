@@ -10,7 +10,7 @@ permalink: /cfp/
 
 **Conference:** Thursday, 07 May 2020, Luton Campus Center, Postgraduate building, Luton, United Kingdom
 
-You may submit your paper through **PaperCall**, by following [this link](https://www.papercall.io/uobpgrconference2020).
+**Submit your Talk:** You may submit your paper through **PaperCall**, by following [this link](https://www.papercall.io/uobpgrconference2020).
 
 **Conference Registration:** To attend, please sign up [here](https://www.eventbrite.co.uk/e/current-and-future-trends-in-research-journey-into-the-unknown-tickets-94850092179) 
 
