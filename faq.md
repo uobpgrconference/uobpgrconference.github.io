@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COVID-19 Update
+title: Faq
 permalink: /faq/
 ---
 
