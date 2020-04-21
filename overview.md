@@ -4,7 +4,7 @@ title: Overview
 permalink: /overview/
 ---
 
-**Date and time:** Tuesday 07 May 2020, 9:00AM -- 07:40PM<br>
+**Date and time:** ~~Tuesday 07 May 2020, 9:00AM -- 07:40PM~~ Postponed<br>
 **Location:** Luton Campus Centre, Postgraduate building, Luton, United Kingdom
 
 There are certainly promising developments and innovations in the developing research works across different disciplines. Ongoing research brings contributions and insights achieved by various researchers in the public and private organisations, such as universities, companies, and laboratories. Significant advancements are achieved in both academic and professional environments, as well as a mutual benefit between academics and professionals gets created through affiliation and collaboration programs among them. At every discovery or progress achieved by one or another, there are new findings that unlock a door on a new journey. In every discipline, what is newly known often indicates imprecise ideas about the unknown volumes of knowledge we have yet to discover, but incrementally. Each increment is infinitesimally small comparing to the unknown knowledge, and still requires a research journey into the unknown.
