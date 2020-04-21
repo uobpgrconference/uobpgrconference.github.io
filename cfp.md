@@ -4,11 +4,13 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Tuesday, 14 April 2020 (17:05 BST)
+**Submission deadline:** ~~14th April~~ Friday, 1 May 2020 (17:05 BST)
 
-**Author notification:** April 24th
+**Author notification:** Right after the submission deadline
 
-**Conference:** Thursday, 07 May 2020, Luton Campus Center, Postgraduate building, Luton, United Kingdom
+**Conference:** ~~Thursday, 07 May 2020~~Postponed
+
+**Venue:** Luton Campus Center, Postgraduate building, Luton, United Kingdom
 
 **Submit your Talk:** You may submit your paper through **PaperCall**, by following [this link](https://www.papercall.io/uobpgrconference2020).
 
